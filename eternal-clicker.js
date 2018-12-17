@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         Eternal Chest Clicker
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @downloadURL  https://raw.githubusercontent.com/developingedan/eternal-clicker/master/eternal-clicker.js
+// @updateURL    https://raw.githubusercontent.com/developingedan/eternal-clicker/master/eternal-clicker.js
+// @version      1.1
 // @description  click on twitch stream active chests
 // @author       You
 // @match        https://0qr7fa6llzn4txgnfgb8ipeksd5v24.ext-twitch.tv/0qr7fa6llzn4txgnfgb8ipeksd5v24/1.5.11/8d945d43853061fa529ab8df6ed6683d/viewer.html?*
